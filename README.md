@@ -5,7 +5,7 @@
 ----
 
 # advanced-operating-systems
-Lab assignments from Advanced Operating Systems course @ FER, UNIZG
+## Lab assignments from Advanced Operating Systems course @ FER, UNIZG
 
 In this assignments I've been using criptography module for simplicity and faster development
 
